@@ -1,0 +1,19 @@
+li{
+    list-style-type: none;
+    padding: 0px 10px;
+}
+
+.container-fluid ul{
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    text-decoration: none;
+}
+
+#card-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
